@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Computer algebra"
+    },
+    {
+      "id": "02",
+      "name": "Computer engineering"
+    },
+    {
+      "id": "03",
+      "name": "Computer hardware"
+    },
+    {
+      "id": "04",
+      "name": "Computer science education"
+    },
+    {
+      "id": "05",
+      "name": "Computer networking"
+    },
+    {
+      "id": "06",
+      "name": "Computer languages"
+    }
+  ]
