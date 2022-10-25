@@ -1,0 +1,297 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Software applications that perform symbolic calculations are called computer algebra systems",
+      "image_url": "https://ucarecdn.com/0078f1fc-2bd8-4f41-992a-3bc5e664be0f/",
+      "details": "In mathematics and computer science,[1] computer algebra, also called symbolic computation or algebraic computation, is a scientific area that refers to the study and development of algorithms and software for manipulating mathematical expressions and other mathematical objects. Although computer algebra could be considered a subfield of scientific computing, they are generally considered as distinct fields because scientific computing is usually based on numerical computation with approximate floating point numbers, while symbolic computation emphasizes exact computation with expressions containing variables that have no given value and are manipulated as symbols"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The template for all modern computers is the Von Neumann architecture",
+      "image_url": "https://computercare.net/wp-content/uploads/2019/08/Blog-Post-Header.png",
+      "details": "The template for all modern computers is the Von Neumann architecture, detailed in a 1945 paper by Hungarian mathematician John von Neumann. This describes a design architecture for an electronic digital computer with subdivisions of a processing unit consisting of an arithmetic logic unit and processor registers, a control unit containing an instruction register and program counter, a memory to store both data and instructions, external mass storage, and input and output mechanisms.[3] The meaning of the term has evolved to mean a stored-program computer in which an instruction fetch and a data operation cannot occur at the same time because they share a common bus. This is referred to as the Von Neumann bottleneck and often limits the performance of the system."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "title": "Computer algebra is widely used to experiment in mathematics and to design the formulas that are used in numerical programs",
+      "image_url": "https://i.ytimg.com/vi/kXu-ig9Gb7A/maxresdefault.jpg",
+      "details": "Software applications that perform symbolic calculations are called computer algebra systems, with the term system alluding to the complexity of the main applications that include, at least, a method to represent mathematical data in a computer, a user programming language (usually different from the language used for the implementation), a dedicated memory manager, a user interface for the input/output of mathematical expressions, a large set of routines to perform usual operations, like simplification of expressions, differentiation using chain rule, polynomial factorization, indefinite integration, etc"
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "title": "Computer engineering (CoE or CpE) is a branch of electrical engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Po8boBSzfQifAxkbgftCLV.jpg",
+      "details": "Computer engineering (CoE or CpE) is a branch of electrical engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software.[1] Computer engineers not only require training in electronic engineering, software design, and hardware-software integration, but also in software engineering. It uses the techniques and principles of electrical engineering and computer science, but also covers areas such as artificial intelligence (AI), robotics, computer networks, computer architecture and operating systems. Computer engineers are involved in many hardware and software aspects of computing, from the design of individual microcontrollers, microprocessors, personal computers, and supercomputers, to circuit design. This field of engineering not only focuses on how computer systems themselves work, yet it also demands them to integrate into the larger picture.[2] Robots are one of the applications of computer engineering."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The personal computer is one of the most common types of computer due to its versatility and relatively",
+      "image_url": "https://images.saymedia-content.com/.image/t_share/MTc0MzAxMzA2NDcwMDE2NTA4/the-four-main-categories-of-computer-hardware-parts.png",
+      "details": "The personal computer is one of the most common types of computer due to its versatility and relatively low price. Desktop personal computers have a monitor, a keyboard, a mouse, and a computer case. The computer case holds the motherboard, fixed or removable disk drives for data storage, the power supply, and may contain other peripheral devices such as modems or network interfaces. Some models of desktop computers integrated the monitor and keyboard into the same case as the processor and power supply. Separating the elements allows the user to arrange the components in a pleasing, comfortable array, at the cost of managing power and data cables between them."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Computer algebra is widely used to experiment in mathematics and to design the formulas that are used in numerical programs. It is also used for complete scientific computations",
+      "image_url": "https://i0.wp.com/blog.ephorie.de/wp-content/uploads/2019/10/geometry-1044090_1280-300x197.jpg?resize=300%2C197",
+      "details": "Some authors distinguish computer algebra from symbolic computation using the latter name to refer to kinds of symbolic computation other than the computation with mathematical formulas. Some authors use symbolic computation for the computer science aspect of the subject and computer algebra for the mathematical aspect.[2] In some languages the name of the field is not a direct translation of its English name. Typically, it is called calcul formel in French, which means formal computation. This name reflects the ties this field has with formal methods.Symbolic computation has also been referred to, in the past, as symbolic manipulation, algebraic manipulation, symbolic processing, symbolic mathematics, or symbolic algebra, but these terms, which also refer to non-computational manipulation, are no longer used in reference to computer algebra."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Computer Engineering usually deal with areas including writing software and firmware for embedded microcontrollers",
+      "image_url": "https://tryengineering.org/wp-content/uploads/bigstock-Electronic-Engineer-Of-Compute-345769633-1024x683.jpg",
+      "details": "Computer Engineering usually deal with areas including writing software and firmware for embedded microcontrollers, designing VLSI chips, designing analog sensors, designing mixed signal circuit boards, and designing operating systems. Computer engineers are also suited for robotics research, which relies heavily on using digital systems to control and monitor electrical systems like motors, communications, and sensors."
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Laptops are designed for portability but operate similarly to desktop PCs.",
+      "image_url": "https://3.imimg.com/data3/NQ/HG/MY-2401511/basic-computer-hardware-a-500x500.gif",
+      "details": "Laptops are designed for portability but operate similarly to desktop PCs.[1] They may use lower-power or reduced size components, with lower performance than a similarly priced desktop computer.[5] Laptops contain the keyboard, display, and processor in one case. The monitor in the folding upper cover of the case can be closed for transportation, to protect the screen and keyboard. Instead of a mouse, laptops may have a touchpad or pointing stick."
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Computer science education or computing education is the science and art of teaching and learning of computer science,",
+      "image_url": "https://www.firstinspires.org/sites/default/files/uploads/blogs/2018/blog-future-cs.jpg",
+      "details": "Computer science education or computing education is the science and art of teaching and learning of computer science,[1][2] computing[3][4][5][6] and computational thinking.[7][8][9] As a subdiscipline of pedagogy it also addresses the wider impact of computer science in society through its intersection with philosophy, psychology, linguistics, natural sciences, and mathematics. In comparison to science education and mathematics education, computer science (CS) education is a much younger field.[10] In the history of computing, digital computers were only built from around the 1940s – although computation has been around for centuries since the invention of analog computers."
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Another differentiator of computer science education is that it has primarily only been taught at university level until recently",
+      "image_url": "https://www.eschoolnews.com/files/2018/03/coding1.jpg",
+      "details": "Another differentiator of computer science education is that it has primarily only been taught at university level until recently, with some notable exceptions in Israel, Poland and the United Kingdom with the BBC Micro in the 1980s as part of Computer science education in the United Kingdom.[6][12] Computer science has been a part of the school curricula from age 14 or age 16 in a few countries for a few decades, but has typically as an elective subject."
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "A computer network is a set of computers sharing resources located on or provided by network nodes.",
+      "image_url": "https://cdn.techmesto.com/wp-content/uploads/2011/08/how-to-learn-about-computer-networking5.jpg",
+      "details": "A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies."
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The nodes of a computer network can include personal computers, servers",
+      "image_url": "https://cdn.hswstatic.com/gif/computer-networking-5-1.jpg",
+      "details": "The nodes of a computer network can include personal computers, servers, networking hardware, or other specialised or general-purpose hosts. They are identified by network addresses, and may have hostnames. Hostnames serve as memorable labels for the nodes, rarely changed after initial assignment. Network addresses serve for locating and identifying the nodes by communication protocols such as the Internet Protocol."
+    },
+
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f75d",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "In many institutions of higher learning",
+      "image_url": "https://online.engineering.arizona.edu/wp-content/themes/eng/images/blog/top-skills-software-and-computer-engineering.jpg",
+      "details": "In many institutions of higher learning, computer engineering students are allowed to choose areas of in-depth study in their junior and senior year because the full breadth of knowledge used in the design and application of computers is beyond the scope of an undergraduate degree. Other institutions may require engineering students to complete one or two years of general engineering before declaring computer engineering as their primary focus"
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Construction languages include all forms of communication by which a human can specify an executable problem solution to a computer.",
+      "image_url": "https://www.onlinecollegeplan.com/wp-content/uploads/2021/10/shutterstock_258766742-scaled.jpg",
+      "details": "Linguistic notations which are distinguished in particular by the use of word-like strings of text to represent complex software constructions, and the combination of such word-like strings into patterns that have a sentence-like syntax.Formal notations which rely less on intuitive, everyday meanings of words and text strings and more on definitions backed up by precise, unambiguous, and formal (or mathematical) definitions.Visual notations which rely much less on the text-oriented notations of both linguistic and formal construction, and instead rely on direct visual interpretation and placement of visual entities that represent the underlying software.Programmers working in a language they have used for three years or more are about 30 percent more productive than programmers with equivalent experience who are new to a language. High-level languages such as C++, Java, Smalltalk, and Visual Basic yield 5 to 15 times better productivity, reliability, simplicity, and comprehensibility than low-level languages such as assembly and C. Equivalent code has been shown to need fewer lines to be implemented in high level languages than in lower level languages."
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "As numerical software is highly efficient for approximate numerical computation",
+      "image_url": "https://www-fourier.ujf-grenoble.fr/~parisse/giac/formel.png",
+      "details": "As numerical software is highly efficient for approximate numerical computation, it is common, in computer algebra, to emphasize exact computation with exactly represented data. Such an exact representation implies that, even when the size of the output is small, the intermediate data generated during a computation may grow in an unpredictable way. This behavior is called expression swell. To obviate this problem, various methods are used in the representation of the data, as well as in the algorithms that manipulate them."
+    },
+    {
+      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The usual numbers systems used in numerical computation are floating point numbers and integers of a fixed bounded size",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqUolVKlnlXpW8rkOn3p50ZjH0_GrwtmgXjYn-34ituKba6GEtqB5ZJgu08GaE_wI8GI&usqp=CAU",
+      "details": "Therefore, the basic numbers used in computer algebra are the integers of the mathematicians, commonly represented by an unbounded signed sequence of digits in some base of numeration, usually the largest base allowed by the machine word. These integers allow to define the rational numbers, which are irreducible fractions of two integers.Programming an efficient implementation of the arithmetic operations is a hard task. Therefore, most free computer algebra systems and some commercial ones such as Mathematica and Maple (software), use the GMP library, which is thus a de facto standard."
+    },
+    {
+      "_id": "df11ff9feefc37613cc3a4486ce02151",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Computer engineering began in 1939 when John Vincent Atanasoff and Clifford Berry began developing the world's first electronic digital computer through physics, mathematics,",
+      "image_url": "https://ftken.unimap.edu.my/images/bachelorpic/computer-eng-salaries-worldwide_md.jpg",
+      "details": "Computer engineering began in 1939 when John Vincent Atanasoff and Clifford Berry began developing the world's first electronic digital computer through physics, mathematics, and electrical engineering. John Vincent Atanasoff was once a physics and mathematics teacher for Iowa State University and Clifford Berry a former graduate under electrical engineering and physics. Together, they created the Atanasoff-Berry computer, also known as the ABC which took 5 years to complete.[7] While the original ABC was dismantled and discarded in the 1940s a tribute was made to the late inventors, a replica of the ABC was made in 1997 where it took a team of researchers and engineers four years and $350,000 to build"
+    },
+    {
+      "_id": "919db97c34e0778b387dd40cdfa08130",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Except for numbers and variables, every mathematical expression may be viewed as the symbol of an operator followed by a sequence of operands",
+      "image_url": "https://windows-cdn.softpedia.com/screenshots/Computer-Algebra-System_11.png",
+      "details": "Even programs may be considered and represented as expressions with operator “procedure” and, at least, two operands, the list of parameters and the body, which is itself an expression with “body” as an operator and a sequence of instructions as operands. Conversely, any mathematical expression may be viewed as a program. For example, the expression a + b may be viewed as a program for the addition, with a and b as parameters. Executing this program consists in evaluating the expression for given values of a and b; if they do not have any value—that is they are indeterminates—, the result of the evaluation is simply its input."
+    },
+    {
+      "_id": "1b03149c50f1bec662062d930bf46489",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The modern personal computer emerged in the 1970s, after several breakthroughs in semiconductor technology",
+      "image_url": "https://ciit.edu.ph/wp-content/uploads/2019/12/imageedit_7_8147831748.jpg",
+      "details": "The modern personal computer emerged in the 1970s, after several breakthroughs in semiconductor technology. These include the first working transistor by William Shockley, John Bardeen and Walter Brattain at Bell Labs in 1947,[9] planar process by Jean Hoerni,[10][11] the monolithic integrated circuit chip by Robert Noyce at Fairchild Semiconductor in 1959,[12] the metal-oxide-semiconductor field-effect transistor (MOSFET, or MOS transistor) by Mohamed Atalla and Dawon Kahng at Bell Labs in 1959,[13][14][15] and the single-chip microprocessor (Intel 4004) by Federico Faggin, Marcian Hoff, Masatoshi Shima and Stanley Mazor at Intel in 1971"
+    },
+    {
+      "_id": "1b03149c50f1bec662062d930bf46482",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Computer engineering is referred to as computer science and engineering at some universities. ",
+      "image_url": "https://ghstudents.com/wp-content/uploads/2019/12/Computer-Science.jpg",
+      "details": "Computer engineering is referred to as computer science and engineering at some universities. Most entry-level computer engineering jobs require at least a bachelor's degree in computer engineering (or computer science and engineering). Typically one must learn an array of mathematics such as calculus, algebra and trigonometry and some computer science classes.[citation needed] Degrees in electronic or electric engineering also suffice due to the similarity of the two fields. Because hardware engineers commonly work with computer software systems, a strong background in computer programming is necessary. According to BLS, a computer engineering major is similar to electrical engineering but with some computer science courses added to the curriculum.[19] Some large firms or specialized jobs require a master's degree."
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07349",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The computer case encloses most of the components of the system.",
+      "image_url": "https://media.istockphoto.com/photos/3d-rendering-of-futuristic-blue-circuit-board-picture-id1129032734?k=20&m=1129032734&s=612x612&w=0&h=ThTmVjLwGhjEoPbLuCYVFsDE8RFXJ_ElpTQVY8vAe1g=",
+      "details": "The computer case encloses most of the components of the system. It provides mechanical support and protection for internal elements such as the motherboard, disk drives, and power supplies, and controls and directs the flow of cooling air over internal components. The case is also part of the system to control electromagnetic interference radiated by the computer and protects internal parts from electrostatic discharge. Large tower cases provide space for multiple disk drives or other peripherals and usually stand on the floor, while desktop cases provide less expansion room. All-in-one style designs include a video display built into the same case. Portable and laptop computers require cases that provide impact protection for the unit. Hobbyists may decorate the cases with colored lights, paint, or other features, in an activity called case modding."
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07342",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The motherboard is the main component of a computer.",
+      "image_url": "https://media.istockphoto.com/photos/computer-education-training-class-picture-id1210738055?b=1&k=20&m=1210738055&s=170667a&w=0&h=obsRXiCdlYUURz0l783K7VrSgK535j2vUkFfvQ1SIjE=",
+      "details": "The motherboard is the main component of a computer. It is a board with integrated circuitry that connects the other parts of the computer including the CPU, the RAM, the disk drives (CD, DVD, hard disk, or any others) as well as any peripherals connected via the ports or the expansion slots. The integrated circuit (IC) chips in a computer typically contain billions of tiny metal–oxide–semiconductor field-effect transistors (MOSFETs)"
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07341",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The CPU (central processing unit), which performs most of the calculations which enable a computer to function",
+      "image_url": "https://thumbs.dreamstime.com/z/installing-computer-hardware-technician-install-cpu-motherboard-office-162950987.jpg",
+      "details": "The CPU (central processing unit), which performs most of the calculations which enable a computer to function, and is referred to as the brain of the computer. It takes program instructions from random-access memory (RAM), interprets and processes them and then sends back results so that the relevant components can carry out the instructions. The CPU is a microprocessor, which is fabricated on a metal–oxide–semiconductor (MOS) integrated circuit (IC) chip. It is usually cooled by a heatsink and fan, or water-cooling system. Many newer CPUs include an on-die graphics processing unit (GPU). The clock speed of the CPU governs how fast it executes instructions and is measured in GHz; typical values lie between 1 GHz and 5 GHz. Many modern computers have the option to overclock the CPU which enhances performance at the expense of greater thermal output and thus a need for improved cooling."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb955",
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "title": "A command language is a language for job control in computing.",
+      "image_url": "https://i.pinimg.com/originals/6c/18/54/6c18549159f7dbfa80983b145513b984.jpg",
+      "details": "A command language is a language for job control in computing.[1] It is a domain-specific and interpreted language; common examples of a command language are shell or batch programming languages.These languages can be used directly at the command line, but can also automate tasks that would normally be performed manually at the command line. They share this domain—lightweight automation—with scripting languages, though a command language usually has stronger coupling to the underlying operating system. Command languages often have either very simple grammars or syntaxes very close to natural language, to shallow the learning curve, as with many other domain-specific languages."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb954",
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "title": "In computing, configuration files (commonly known simply as config files) are files used to configure the parameters and initial settings for some computer programs. ",
+      "image_url": "https://i.ytimg.com/vi/h9n0Dr45ovg/maxresdefault.jpg",
+      "details": "Some applications provide tools to create, modify, and verify the syntax of their configuration files; these sometimes have graphical interfaces. For other programs, system administrators may be expected to create and modify files by hand using a text editor, which is possible because many are human-editable plain text files. For server processes and operating-system settings, there is often no standard tool, but operating systems may provide their own graphical interfaces such as YaST or debconf.Some computer programs only read their configuration files at startup. Others periodically check the configuration files for changes. Users can instruct some programs to re-read the configuration files and apply the changes to the current process, or indeed to read arbitrary files as a configuration file. There are no definitive standards or strong conventions."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb953",
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "title": "A transformation language is a computer language designed to transform some input text in a certain formal language into a modified output text that meets some specific goal",
+      "image_url": "https://smartwatermagazine.com/sites/default/files/styles/thumbnail-830x455/public/digital-transformation-unsplash-ok.jpg?itok=C8uvhT3F",
+      "details": "Program transformation systems such as Stratego/XT, TXL, Tom, DMS, and ASF+SDF all have transformation languages as a major component. The transformation languages for these systems are driven by declarative descriptions of the structure of the input text (typically a grammar), allowing them to be applied to wide variety of formal languages and documents.Macro languages are a kind of transformation languages to transform a meta language into specific higher programming language like Java, C++, Fortran or into lower-level Assembly language.In the model-driven engineering technical space, there are model transformation languages (MTLs), that take as input models conforming to a given metamodel and produce as output models conforming to a different metamodel. An example of such a language is the QVT OMG standard."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb952",
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "title": "Markup language refers to a text-encoding system consisting of a set of symbols inserted in a text document to control its structure",
+      "image_url": "https://www.howtogeek.com/wp-content/uploads/2021/06/markup_hero_1.jpg?width=398&trim=1,1&bg-color=000&pad=1,1",
+      "details": "Older markup languages, which typically focus on typography and presentation, include troff, TeX and LaTeX. Scribe and most modern markup languages, for example XML, identify document components (for example headings, paragraphs, and tables), with the expectation that technology such as stylesheets will be used to apply formatting or other processing.Some markup languages, such as the widely used HTML, have pre-defined presentation semantics, meaning that their specification prescribes some aspects of how to present the structured data on particular media. HTML, like DocBook, Open eBook, JATS and many others, is based on the markup meta-languages SGML and XML. That is, SGML and XML allow designers to specify particular schemas, which determine which elements, attributes, and other features are permitted, and where."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb951",
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "title": "In computer engineering, a hardware description language (HDL) is a specialized computer language used to describe the structure and behavior of electronic circuits",
+      "image_url": "https://slideplayer.com/11699413/47/images/slide_1.jpg",
+      "details": "A hardware description language enables a precise, formal description of an electronic circuit that allows for the automated analysis and simulation of an electronic circuit. It also allows for the synthesis of an HDL description into a netlist (a specification of physical electronic components and how they are connected together), which can then be placed and routed to produce the set of masks used to create an integrated circuit.A hardware description language looks much like a programming language such as C or ALGOL; it is a textual description consisting of expressions, statements and control structures. One important difference between most programming languages and HDLs is that HDLs explicitly include the notion of time.HDLs form an integral part of electronic design automation (EDA) systems, especially for complex circuits, such as application-specific integrated circuits, microprocessors, and programmable logic devices."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Computer networking may be considered a branch of computer science, computer engineering,",
+      "image_url": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5ce3cbd329095a7048db02b2_Image-3.jpg",
+      "details": "In the late 1950s, a network of computers was built for the U.S. military Semi-Automatic Ground Environment (SAGE) radar system using the Bell 101 modem. It was the first commercial modem for computers, released by AT&T Corporation in 1958. The modem allowed digital data to be transmitted over regular unconditioned telephone lines at a speed of 110 bits per second (bit/s).In 1959, Christopher Strachey filed a patent application for time-sharing and John McCarthy initiated the first project to implement time-sharing of user programs at MIT.[1][2][3][4] Stratchey passed the concept on to J. C. R. Licklider at the inaugural UNESCO Information Processing Conference in Paris that year.[5] McCarthy was instrumental in the creation of three of the earliest time-sharing systems (Compatible Time-Sharing System in 1961, BBN Time-Sharing System in 1962, and Dartmouth Time Sharing System in 1963)."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f9",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "A computer network extends interpersonal communications by electronic means with various technologies",
+      "image_url": "https://snabaynetworking.com/wp-content/uploads/2020/12/what-is-computer-network-1.jpg",
+      "details": "A computer network extends interpersonal communications by electronic means with various technologies, such as email, instant messaging, online chat, voice and video telephone calls, and video conferencing. A network allows sharing of network and computing resources. Users may access and use resources provided by devices on the network, such as printing a document on a shared network printer or use of a shared storage device. A network allows sharing of files, data, and other types of information giving authorized users the ability to access information stored on other computers on the network. Distributed computing uses computing resources across a network to accomplish tasks"
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f5",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Most modern computer networks use protocols based on packet-mode transmission.",
+      "image_url": "https://www.cisco.com/c/dam/assets/swa/img/anchor-info/Technofy-628x353.jpg",
+      "details": "Packets consist of two types of data: control information and user data (payload). The control information provides data the network needs to deliver the user data, for example, source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers, with payload data in between.With packets, the bandwidth of the transmission medium can be better shared among users than if the network were circuit switched. When one user is not sending packets, the link can be filled with packets from other users, and so the cost can be shared, with relatively little interference, provided the link isn't overused. Often the route a packet needs to take through a network is not immediately available. In that case, the packet is queued and waits until a link is free."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f1",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The physical or geographic locations of network nodes and links generally have relatively little effect on a network",
+      "image_url": "https://www.senecacollege.ca/content/dam/projects/seneca/Program-2018/cns_top.jpg",
+      "details": "The physical or geographic locations of network nodes and links generally have relatively little effect on a network, but the topology of interconnections of a network can significantly affect its throughput and reliability. With many technologies, such as bus or star networks, a single failure can cause the network to fail entirely. In general, the more interconnections there are, the more robust the network is; but the more expensive it is to install. Therefore most network diagrams are arranged by their network topology which is the map of logical interconnections of network hosts."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f2",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Primary and secondary computer science education is relatively new in the United States with many K-12",
+      "image_url": "https://wisconsintechnologycouncil.com/wp-content/uploads/2018/07/computer-science-education.jpg",
+      "details": "Primary and secondary computer science education is relatively new in the United States with many K-12 CS teachers facing obstacles to integrating CS instruction such as professional isolation, limited CS professional development resources, and low levels of CS teaching self-efficacy.[13][14][15] According to a 2021 report, only 51% of high schools in the US offer computer science.[16] Elementary CS teachers in particular have lower CS teaching efficacy and have fewer chances to implement CS into their instruction than their middle and high school peers.[13] Connecting CS teachers to resources and peers using methods such as Virtual Communities of Practice has been shown to help CS and STEM teachers improve their teaching self-efficacy and implement CS topics into student instruction."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f3",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "In many countries, there is a significant gender gap in computer science education. In 2015,",
+      "image_url": "https://thumbs.dreamstime.com/z/computer-science-education-week-celebrated-usa-second-december-hour-code-concept-vector-digital-future-waves-166264318.jpg",
+      "details": "In many countries, there is a significant gender gap in computer science education. In 2015, 15.3% of computer science students graduating from non-doctoral granting institutions in the US were women while at doctoral granting institutions, the figure was 16.6%.[19] The number of female PhD recipients in the US was 19.3% in 2018.[20] In almost everywhere in the world, less than 20% of the computer science graduates are female.[21] This problem mainly arises due to the lack of interests of girls in computing starting from the primary level. Despite numerous efforts by programs specifically designed to increase the ratio of women in this field, no significant improvement has been observed. Furthermore, a declining trend has been noticed in the involvement of women in past decades."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f4",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "The main reason for the failure of these programs is because almost all of them focused on girls in high school or higher levels of education.",
+      "image_url": "https://www.educationnext.org/wp-content/uploads/2021/06/ednext_XXI_4_oldham_img01.png",
+      "details": "Researchers argue that by then women have already made up their mind and stereotypes start to form about computer scientists. Computer Science is perceived as a male dominated field, pursued by people who are nerdy and lack social skills.[22] All these characteristics seem to be more damaging for a woman as compared to a man. Therefore, in order to break these stereotypes and to engage more women in computer science, it is crucial that there are special outreach programs designed to develop interest in girls starting at the middle school level and prepare them for a academic track towards the hard sciences."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "title": "Evidently, there are a few countries in Asia and Africa where these stereotypes do not exist and women",
+      "image_url": "https://www.pi-top.com/hubfs/Add%20a%20subheading%20%282240%20%C3%97%201260px%29%20%281%29-3.png",
+      "details": "Computer Science is perceived as a male dominated field, pursued by people who are nerdy and lack social skills.[22] All these characteristics seem to be more damaging for a woman as compared to a man. Therefore, in order to break these stereotypes and to engage more women in computer science, it is crucial that there are special outreach programs designed to develop interest in girls starting at the middle school level and prepare them for a academic track towards the hard sciences.[21]Evidently, there are a few countries in Asia and Africa where these stereotypes do not exist and women are encouraged for a career in science starting at the primary level, thus resulting in a gender gap that is virtually nonexistent. In 2011, women earned half of the computer science degrees in Malaysia.[23] In 2001, 55 percent of computer science graduates in Guyana were women"
+    }
+  ]

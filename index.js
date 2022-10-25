@@ -11,10 +11,8 @@ app.get("/", (req, res) => {
   res.send("Assignment Project Server Running Test");
 });
 
-app.get("/category/:id", (req, res) => {
-  const id = req.params.id;
-  const selectedCategory = categories.find((category) => category.id === id);
-  res.send(selectedCategory);
+app.get("/category", (req, res) => {
+  res.send(categories);
 });
 
 app.listen(port, () => {
