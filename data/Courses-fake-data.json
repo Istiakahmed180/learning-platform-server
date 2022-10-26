@@ -1,6 +1,11 @@
 [
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "5000",
+        "Team":"6500"
+      },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Software applications that perform symbolic calculations are called computer algebra systems",
@@ -9,6 +14,11 @@
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3000",
+        "Team":"5500"
+      },
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The template for all modern computers is the Von Neumann architecture",
@@ -18,6 +28,11 @@
 
     {
       "_id": "f69a695f037cd9484cecaea37ca71011",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3000",
+        "Team":"4500"
+      },
       "category_id": "01",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "title": "Computer algebra is widely used to experiment in mathematics and to design the formulas that are used in numerical programs",
@@ -26,6 +41,11 @@
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "5000",
+        "Team":"7500"
+      },
       "category_id": "02",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "title": "Computer engineering (CoE or CpE) is a branch of electrical engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software",
@@ -35,6 +55,11 @@
 
     {
       "_id": "11468ed61aee84de492a8b04158a22f9",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2000",
+        "Team":"3500"
+      },
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The personal computer is one of the most common types of computer due to its versatility and relatively",
@@ -43,6 +68,11 @@
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "5000",
+        "Team":"7500"
+      },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Computer algebra is widely used to experiment in mathematics and to design the formulas that are used in numerical programs. It is also used for complete scientific computations",
@@ -52,6 +82,11 @@
 
     {
       "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "4000",
+        "Team":"6500"
+      },
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Computer Engineering usually deal with areas including writing software and firmware for embedded microcontrollers",
@@ -61,6 +96,11 @@
 
     {
       "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3000",
+        "Team":"6000"
+      },
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Laptops are designed for portability but operate similarly to desktop PCs.",
@@ -70,6 +110,11 @@
 
     {
       "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "4000",
+        "Team":"6000"
+      },
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Computer science education or computing education is the science and art of teaching and learning of computer science,",
@@ -78,6 +123,11 @@
     },
     {
       "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2000",
+        "Team":"3000"
+      },
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Another differentiator of computer science education is that it has primarily only been taught at university level until recently",
@@ -87,6 +137,11 @@
 
     {
       "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "1500",
+        "Team":"3000"
+      },
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "A computer network is a set of computers sharing resources located on or provided by network nodes.",
@@ -95,6 +150,11 @@
     },
     {
       "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2000",
+        "Team":"6000"
+      },
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The nodes of a computer network can include personal computers, servers",
@@ -104,6 +164,11 @@
 
     {
       "_id": "cd2b53655737cc4077542baea9f8f75d",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2500",
+        "Team":"4500"
+      },
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "In many institutions of higher learning",
@@ -112,6 +177,11 @@
     },
     {
       "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3000",
+        "Team":"6000"
+      },
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Construction languages include all forms of communication by which a human can specify an executable problem solution to a computer.",
@@ -120,6 +190,11 @@
     },
     {
       "_id": "7c4dfea0fafddc813673282a428429b7",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3000",
+        "Team":"5000"
+      },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "As numerical software is highly efficient for approximate numerical computation",
@@ -128,6 +203,11 @@
     },
     {
       "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "500",
+        "Team":"1500"
+      },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The usual numbers systems used in numerical computation are floating point numbers and integers of a fixed bounded size",
@@ -136,6 +216,11 @@
     },
     {
       "_id": "df11ff9feefc37613cc3a4486ce02151",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2500",
+        "Team":"5000"
+      },
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Computer engineering began in 1939 when John Vincent Atanasoff and Clifford Berry began developing the world's first electronic digital computer through physics, mathematics,",
@@ -144,6 +229,11 @@
     },
     {
       "_id": "919db97c34e0778b387dd40cdfa08130",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3500",
+        "Team":"6000"
+      },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Except for numbers and variables, every mathematical expression may be viewed as the symbol of an operator followed by a sequence of operands",
@@ -152,6 +242,11 @@
     },
     {
       "_id": "1b03149c50f1bec662062d930bf46489",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "1500",
+        "Team":"2500"
+      },
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The modern personal computer emerged in the 1970s, after several breakthroughs in semiconductor technology",
@@ -160,6 +255,11 @@
     },
     {
       "_id": "1b03149c50f1bec662062d930bf46482",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2000",
+        "Team":"2500"
+      },
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Computer engineering is referred to as computer science and engineering at some universities. ",
@@ -168,6 +268,11 @@
     },
     {
       "_id": "7f5b80c1cdd4df0111918883eae07349",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "5000",
+        "Team":"7000"
+      },
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The computer case encloses most of the components of the system.",
@@ -176,6 +281,11 @@
     },
     {
       "_id": "7f5b80c1cdd4df0111918883eae07342",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "4000",
+        "Team":"7500"
+      },
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The motherboard is the main component of a computer.",
@@ -184,6 +294,11 @@
     },
     {
       "_id": "7f5b80c1cdd4df0111918883eae07341",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "4000",
+        "Team":"4500"
+      },
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The CPU (central processing unit), which performs most of the calculations which enable a computer to function",
@@ -192,6 +307,11 @@
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb955",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2500",
+        "Team":"3000"
+      },
       "category_id": "06",
       "rating": { "number": 4.2, "badge": "Excellent" },
       "title": "A command language is a language for job control in computing.",
@@ -200,6 +320,11 @@
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb954",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "1500",
+        "Team":"2500"
+      },
       "category_id": "06",
       "rating": { "number": 4.2, "badge": "Excellent" },
       "title": "In computing, configuration files (commonly known simply as config files) are files used to configure the parameters and initial settings for some computer programs. ",
@@ -208,6 +333,11 @@
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb953",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "5500",
+        "Team":"7500"
+      },
       "category_id": "06",
       "rating": { "number": 4.2, "badge": "Excellent" },
       "title": "A transformation language is a computer language designed to transform some input text in a certain formal language into a modified output text that meets some specific goal",
@@ -216,6 +346,11 @@
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb952",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "4500",
+        "Team":"3500"
+      },
       "category_id": "06",
       "rating": { "number": 4.2, "badge": "Excellent" },
       "title": "Markup language refers to a text-encoding system consisting of a set of symbols inserted in a text document to control its structure",
@@ -224,6 +359,11 @@
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb951",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3000",
+        "Team":"1500"
+      },
       "category_id": "06",
       "rating": { "number": 4.2, "badge": "Excellent" },
       "title": "In computer engineering, a hardware description language (HDL) is a specialized computer language used to describe the structure and behavior of electronic circuits",
@@ -232,6 +372,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "1000",
+        "Team":"2500"
+      },
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Computer networking may be considered a branch of computer science, computer engineering,",
@@ -240,6 +385,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f9",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "5000",
+        "Team":"7000"
+      },
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "A computer network extends interpersonal communications by electronic means with various technologies",
@@ -248,6 +398,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f5",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "1000",
+        "Team":"2000"
+      },
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Most modern computer networks use protocols based on packet-mode transmission.",
@@ -256,6 +411,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f1",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "5200",
+        "Team":"6000"
+      },
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The physical or geographic locations of network nodes and links generally have relatively little effect on a network",
@@ -264,6 +424,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f2",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "4200",
+        "Team":"5000"
+      },
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Primary and secondary computer science education is relatively new in the United States with many K-12",
@@ -272,6 +437,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f3",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "2500",
+        "Team":"4000"
+      },
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "In many countries, there is a significant gender gap in computer science education. In 2015,",
@@ -280,6 +450,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f4",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "3500",
+        "Team":"4500"
+      },
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "The main reason for the failure of these programs is because almost all of them focused on girls in high school or higher levels of education.",
@@ -288,6 +463,11 @@
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "price": {
+        "Beginner": "Free",
+        "Pro": "1000",
+        "Team":"2500"
+      },
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Evidently, there are a few countries in Asia and Africa where these stereotypes do not exist and women",
