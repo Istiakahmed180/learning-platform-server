@@ -22,6 +22,12 @@ app.get("/course-details/:id", (req, res) => {
   res.send(selectedCourses);
 });
 
+app.get("/premium-courses/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourses = coursesData.find((course) => course._id === id);
+  res.send(selectedCourses);
+});
+
 app.get("/courses", (req, res) => {
   res.send(coursesData);
 });
